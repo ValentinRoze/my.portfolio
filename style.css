@@ -1,0 +1,15 @@
+
+.banner {
+    position: relative;
+    background: url(images/background.jpg);
+    min-height: 75vh;
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0 200px;
+}
+
+.banner-description {
+    color: white;
+    position: relative;
+    margin-left: 10%;
+}
