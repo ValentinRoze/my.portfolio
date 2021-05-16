@@ -1,4 +1,4 @@
-
+/* Navbar */
 .banner {
     position: relative;
     background: url(images/background.jpg);
@@ -12,4 +12,13 @@
     color: white;
     position: relative;
     margin-left: 10%;
+}
+/* About */
+
+.hero-content {
+    margin-top: 5%;
+}
+
+.img-fluid {
+    border-radius: 53% 47% 63% 37% / 43% 79% 21% 57% ;
 }
