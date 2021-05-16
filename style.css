@@ -25,9 +25,6 @@
 }
 
 /* Portfolio */
-.portfolio-title {
-    padding-left: 8%;
-}
 #article-feed .title-link {
     font-size: 18px;
 }
@@ -43,4 +40,13 @@
     padding-top: calc(2 / 3 * 75%); 
     background-size: cover;
     background-position: center;
+  }
+  /* Contact */
+  
+  .social-icon {
+      width: 50%;
+
+  }
+  #mail-box .mail-icon {
+      margin-left: 25%;
   }
