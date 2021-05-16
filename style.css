@@ -1,4 +1,28 @@
+/* Fonts */
+.myname {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 45px;
+}
+
+p {
+    font-family: lucida, cursive;
+}
+.post-date {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.title-link {
+    font-family: 'Times New Roman', Times, serif;
+}
+.desc {
+    font-family: lucida, cursive;
+}
+
 /* Default */
+
 html {
     scroll-behavior: smooth;
   }
