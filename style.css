@@ -1,4 +1,5 @@
 /* Navbar */
+
 .banner {
     position: relative;
     background: url(images/background.jpg);
@@ -22,3 +23,24 @@
 .img-fluid {
     border-radius: 53% 47% 63% 37% / 43% 79% 21% 57% ;
 }
+
+/* Portfolio */
+.portfolio-title {
+    padding-left: 8%;
+}
+#article-feed .title-link {
+    font-size: 18px;
+}
+#article-feed .art-row-1 .title-link {
+    color: black;
+    font-size: 22px;
+}
+#article-feed .art-row-1 .desc {
+    font-size: 16px;
+}
+
+.ratio-main {
+    padding-top: calc(2 / 3 * 75%); 
+    background-size: cover;
+    background-position: center;
+  }
